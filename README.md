@@ -176,3 +176,12 @@ Lets try to ping second machine container named docker2(ip :192.168.1.12)from fi
 
 <img width="769" alt="Screenshot 2023-07-18 233519" src="https://github.com/nobelrakib/Communication-between-two-containers-using-VxLan-overlay-network-and-openvswitch/assets/53372696/97cfe822-5860-48dd-a7d7-3fe35b5828da">
 
+We are getting reply.
+
+Now do the reverse.
+
+<img width="746" alt="Screenshot 2023-07-18 233449" src="https://github.com/nobelrakib/Communication-between-two-containers-using-VxLan-overlay-network-and-openvswitch/assets/53372696/c6da49e1-f1bf-439b-8e10-b79e82b32629">
+
+Here we also getting reply. So our tunneling with vxlan and openvswith is working fine for our two ec2 machines.
+
+
